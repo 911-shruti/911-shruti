@@ -2,8 +2,8 @@
 - 👀 I’m interested in Learning Java and things related to java 
 - 🌱 I’m currently learning Java Core
 - 💞️ I’m looking to collaborate on small java projects.
-- 📫 How to reach me you can reach via linkedIn
-- ⚡ Fun fact: my sister call's me a faliure 😄
+- 📫 you can reach via linkedIn 
+
 
 <!---
 911-shruti/911-shruti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
