@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @911-shruti
-- 👀 I’m interested in Learning Java and things related to java 
-- 🌱 I’m currently learning Java Core
-- 💞️ I’m looking to collaborate on small java projects.
+- 👋 Hi, I’m Shruti Shukla
+- 👀 I was interested in Learning Java and things related to java but now moving towards Data Science and Python 
+- 🌱 I’m currently learning Python and concepts of Data Science
+- 💞️ I’m looking to collaborate on small projects.
 - 📫 you can reach via linkedIn 
 
 
