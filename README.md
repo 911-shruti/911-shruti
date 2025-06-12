@@ -8,12 +8,12 @@ Starting with Java, I gradually shifted towards solving real-world problems thro
 ## 🌱 What I'm Learning
 - Python for Data Analysis & Machine Learning
 - Data Structures & Algorithms
-- Deep Learning (RNN, LSTM, Transformers – beginner level)
+- Deep Learning 
 - Project-based learning through hands-on development
 
 ---
 
-## 💻 Projects I’m Working On
+## 💻 Projects 
 
 ### 🎶 AI Music Generation App  
 An intelligent system that generates music from text using **deep learning** and **language models**.  
